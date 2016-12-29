@@ -1,3 +1,6 @@
+#algoExoQais
+#beweb lunel
+
 tableau = [3,20,15,28,6,52,9]
 switch = ""
 sorted = False

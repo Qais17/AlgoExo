@@ -1,3 +1,7 @@
+#algoExoQais
+#beweb lunel
+
+
 import sys
 
 def countLetter(word,letter):

@@ -1,5 +1,8 @@
-
 <?php
+#beweb lunel
+#algoExoQais
+
+
 $tableau = array(3,25,1,6,23,56);
 $permut = 0;
 $sorted = false;

@@ -1,3 +1,5 @@
+#algoExoQais
+#beweb lunel
 
 tableau = [3,25,1,6,23,56]
 switch = 0;

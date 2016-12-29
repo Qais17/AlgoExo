@@ -1,5 +1,9 @@
 <?php
 
+#algoExoQais
+#beweb lunel
+
+
 $result = 0;
 $i = 0;
 function countLetter($word,$letter)

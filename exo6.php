@@ -1,4 +1,9 @@
 <?php
+
+//AlgoExoQais
+//beweb lunel
+
+
 $program_loop = false;
 $choice_loop = false;
 $words = "";

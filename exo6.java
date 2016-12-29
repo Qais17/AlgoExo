@@ -1,3 +1,7 @@
+//AlgoExoQais
+//beweb lunel
+
+
 public class exo6{
 
   public static void main(String[] args) {
