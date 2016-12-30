@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Suite d'exercices d'algorithmie dans divers langages.
 
 Sous Ubuntu / gEdit* Langages utilisés :
@@ -91,3 +92,5 @@ Triangle de pascal dynamique.
 
 Reprendre l’exercice 4 avec un affichage « dynamique » du triangle selon les choix de l’utilisateur. Peut choisir de dessiner un triangle en choisissant la hauteur et le caractère à afficher
 
+=======
+>>>>>>> e3c5efc3f188f163d0fb2d5484e3837095ae1a59
